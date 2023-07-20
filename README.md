@@ -2,7 +2,7 @@
 ## 👋 Oh, hi there!
 
 Welcome to my Github profile! 
-I am Erdem, <b>iOS Developer</b> at [Atlas Software](https://www.atlasyazilim.com.tr/en). I live in 🇹🇷İstanbul, Turkey. 
+I am Erdem, <b>iOS Developer</b> at [Türkiye Finans Katılım Bankası]([https://www.atlasyazilim.com.tr/en](https://www.turkiyefinans.com.tr/tr-tr/Sayfalar/default.aspx)). I live in 🇹🇷İstanbul, Turkey. 
 
 ##  🛠 Things I  work with
 <p> 
